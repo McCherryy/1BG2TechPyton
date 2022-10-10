@@ -16,9 +16,27 @@ else:
 
 #Zad3
 
-wiek = int(input("ile masz lat?")
-if wiek >= 18:
-    printt("TAK")
-else:
-    print("NIE")
-    
+# wiek = int(input("ile masz lat?")
+# if wiek >= 18:
+#     printt("TAK")
+# else:
+#     print("NIE")
+
+#zad4
+
+# x = int(input("podaj liczbe"))
+# y = int(input("podja druga liczbe"))
+# if x>y:
+#     print("tak")
+# else:    
+#     print("nie")
+
+#zad7
+
+p = int(input())
+k = int(input())
+s = int(input())
+if p + 3*s >= k:
+    print("tak, da rade")
+else: 
+    print("nie, nie da rady")
